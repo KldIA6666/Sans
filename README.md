@@ -1,6 +1,6 @@
 # Sans
 
-Markdown (Not Yet) Pastebin Built With Elixir, Bandit, and Plug.
+Markdown Pastebin Built With Elixir, Bandit, Earmark, and Plug.
 
 Learning Exercise.
 
